@@ -3,8 +3,9 @@
     <property name="created">2023-02-16T00:06:46</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.3.1.0.0</property>
-    <property name="modified">2023-02-16T00:07:34</property>
+    <property name="modified">2023-04-17T04:16:34</property>
     <property name="originalScheme">Gradianto Deep Ocean New</property>
+    <property name="rainbow Default language">true</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="415f41" />
@@ -100,7 +101,7 @@
         <option name="FOREGROUND" value="589df6" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="589df6" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CodeWithMe.USER_1_MARKER">
@@ -289,6 +290,9 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
     <option name="HTML_CUSTOM_TAG_NAME" baseAttributes="HTML_TAG_NAME" />
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
@@ -349,6 +353,14 @@
         <option name="BACKGROUND" value="173368" />
       </value>
     </option>
+    <option name="JAVA_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="ff00" />
+      </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
     <option name="LOGCAT_ASSERT_OUTPUT">
       <value>
         <option name="FOREGROUND" value="cc666e" />
@@ -377,6 +389,12 @@
     <option name="LOG_EXPIRED_ENTRY">
       <value>
         <option name="FOREGROUND" value="6d6d6d" />
+      </value>
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MATCHED_TAG_NAME">
